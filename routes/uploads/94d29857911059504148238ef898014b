@@ -1,0 +1,6 @@
+sku,Image 1,Image 2,Image 3,Image 4,Image 5
+item2,https://example.com/image3.jpg,,https://via.placeholder.com/150,,
+item3,https://example.com/image2.jpg,,,https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf,
+item4,https://example.com/image3.jpg,,https://images.unsplash.com/photo-1600382960319-b65846fe4366,,
+item5,https://example.com/image4.jpg,https://images.pexels.com/photos/1061589/pexels-photo-1061589.jpeg,https://via.placeholder.com/150,https://picsum.photos/200/300,
+item1,https://cfn-catalog-prod.tradeling.com/up/65f2cf756aad860f7a264659/db6c3700092f7d71186c67213643e3fc.jpg,https://cfn-catalog-prod.tradeling.com/up/65f2cf756aad860f7a264659/fd61bd8156556772a7146c1c167c4fd4.jpg,,,

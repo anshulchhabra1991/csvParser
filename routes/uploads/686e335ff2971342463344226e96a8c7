@@ -1,0 +1,5 @@
+sku,Image 1,Image 2,Image 3,Image 4,Image 5
+item2,https://example.com/image3.jpg,,https://via.placeholder.com/150,,
+item3,https://example.com/image2.jpg,,,https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf,
+item4,https://example.com/image3.jpg,,https://images.unsplash.com/photo-1600382960319-b65846fe4366,,
+item5,https://example.com/image4.jpg,https://images.pexels.com/photos/1061589/pexels-photo-1061589.jpeg,https://via.placeholder.com/150,https://picsum.photos/200/300,
